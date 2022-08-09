@@ -8,5 +8,5 @@ Função somaTotal em Dart e Javascript.
 ## Para o somaTotal em Dart e Javascript você deve ter ambos instalados no computador
 
  Utilizei readline para que possamos preencher os valores diretamente no powershell/bash/cmd.
- Inicie o .dart: dart dart/main.dart
- Inicie o .js: node javascript/index.js
+ Inicie o .dart: dart dart/main.dart </br>
+ Inicie o .js: node javascript/index.js </br>

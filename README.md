@@ -5,9 +5,9 @@ de todos os valores inteiros divisíveis por 3 ou 5 que sejam inferiores aonúme
 
 Função somaTotal em Dart e Javascript.
 
-## Para o somaTotal em Dart e Javascript você deve ter ambos instalados no computador
+# Para o somaTotal em Dart e Javascript você deve ter ambos instalados no computador
 
- Foi usado readline para que possa preencher os valores diretamente no powershell/bash/cmd.
+ Foi usado readline para que possa preencher os valores no powershell/bash/cmd.
  
  > Inicie o .dart: dart dart/main.dart
  

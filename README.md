@@ -9,6 +9,6 @@ Função somaTotal em Dart e Javascript.
 
  Foi usado readline para que possa preencher os valores no powershell/bash/cmd.
  
- > Inicie o .dart: dart dart/main.dart
+ > Dart: dart dart/soma.dart
  
- > Inicie o .js: node javascript/index.js
+ > Javascript: node javascript/index.js
